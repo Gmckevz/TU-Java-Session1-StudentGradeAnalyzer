@@ -7,3 +7,5 @@ Find the highest grade(s) and the name(s) of the student(s) who achieved them, e
 Calculate the average grade of all students, formatted to two decimal places.
 
 ![img.png](https://github.com/Gmckevz/TU-Java-Session1-StudentGradeAnalyzer/blob/377df0c0dc6fb7f75704e48303c0df3ae92546b4/image/Output.png)
+
+Author: Mc Kevin Aranda
